@@ -9,7 +9,7 @@
 <body>
 
 <% 
-response.sendRedirect("ProductForm.do");
+response.sendRedirect("product_input.action");
 
 %>
 
